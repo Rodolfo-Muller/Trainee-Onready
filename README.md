@@ -22,7 +22,6 @@ Honda Titan
 
 <h3>La solución debe cumplir con los siguientes requisitos: </h3>
 ```
-<ul>
 <li>Estar programada en Java o Javascript según tu lenguaje de preferencia.</li>
 <li>Subir la solución a un repositorio Git público para que podamos descargar la solución directamente.</li>
 <li>Diseñar una solución orientada a objetos y subir al repositorio un diagrama de clases junto con el código.</li>
@@ -30,5 +29,4 @@ Honda Titan
 <li>NO usar librerías de terceros.</li>
 <li>Cargar la lista de autos en un único método. No hay ingreso por pantalla de ningún tipo.</li>
 <li>El algoritmo usado para la impresión no tiene que depender de la cantidad, modelo o tipo de vehículo. </li>
-</ul>
 ```
